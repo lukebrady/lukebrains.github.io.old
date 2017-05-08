@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #000000 url("images/hubble.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -515,7 +515,7 @@
 
 		#header h1 {
 			font-size: 4.35em;
-			font-weight: 900;
+			font-weight: 450;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
